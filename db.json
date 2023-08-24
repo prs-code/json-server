@@ -1,0 +1,10 @@
+{
+    "data": {
+        "name": "json-server",
+        "type": "library",
+        "usage": "fake api",
+        "user": "mostafa mousavi",
+        "port": "3005",
+        "status": "200"
+    }
+}
